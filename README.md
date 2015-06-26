@@ -2,19 +2,15 @@
 Phantomjs Canvas Stream Demo
 
 ##Start:
-1. You need ffmpeg and phantomjs installed:
+1. You need node, ffmpeg and phantomjs installed:
 ```bash
 brew install ffmpeg
-npm install -g phantomjs
+make install
 ```
-2. Run Sample Node App:
+2. Run Script:
 ```bash
-node app
+make generate
 ```
-3. In a seperate shell:
-```bash
-make test
-```
-4. Open test.mp4 to view animation
+3. Open test.mp4 to view animation
 
 

@@ -1,0 +1,24 @@
+{
+  "name": "stream-test",
+  "version": "1.0.0",
+  "description": "Phantomjs Canvas Stream Demo",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.0",
+    "phantomjs": "^1.9.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Latrasis/stream-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Latrasis/stream-test/issues"
+  },
+  "homepage": "https://github.com/Latrasis/stream-test#readme"
+}
